@@ -1,0 +1,10 @@
+#nosotros {
+    text-align: center;
+}
+.imagenes {
+    margin: 15px;
+    width: 100%;
+    max-width: 280px;
+    justify-content: center;
+    
+  }

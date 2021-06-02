@@ -1,0 +1,42 @@
+.location {
+    width:80% ;
+    margin:auto ;
+    padding: 80px 0 ;
+}
+.location iframe {
+    width: 100%;
+}
+.contacto {
+    width: 80%;
+    margin: auto;
+    flex-basis:48% ;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.contacto input, textarea {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 17px;
+    outline: none;
+    border: 3px solid black;
+    
+}
+
+form button {
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color:black;
+    cursor: pointer;
+    color:white;
+}
+form button:hover span {
+    width: 100%;
+}
+ form button:hover {
+    border: none;
+}
+
